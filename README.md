@@ -21,5 +21,5 @@ signals proximity through three color-coded LEDs.
 
 
 ## Code
-See `parking_sensor.ino` for the full sketch. 
+See `parking_led_arduino.ino` for the full sketch. 
 
