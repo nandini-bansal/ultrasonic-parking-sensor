@@ -17,10 +17,9 @@ signals proximity through three color-coded LEDs.
 - Resistors, breadboard, jumper wires
 
 ## Circuit
-[Add a photo or diagram of your breadboard setup here]
+<img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/bd037772-b0d9-40ad-a7f5-ad37c042148b" />
+
 
 ## Code
 See `parking_sensor.ino` for the full sketch. 
 
-## Demo
-[Add a photo or short video/GIF of it working, if you have one]
